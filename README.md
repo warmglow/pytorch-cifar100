@@ -1,4 +1,5 @@
 # Pytorch-cifar100
+# This is a modified version by warmglow.
 
 practice on cifar100 using pytorch
 
